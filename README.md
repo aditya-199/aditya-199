@@ -1,6 +1,6 @@
 ![banner](https://miro.medium.com/max/1192/1*jXusXvCfxECPU_Jh9S_E3w.jpeg)
 <h1 align="center">Hi 👋, I'm Aditya Bankar</h1>
-<h3 align="center">A passionate frontend developer from India. My interests are in Front End Development, and I love to create beautiful and performant products with delightful user experiences.</h3>
+<h3 align="center">A passionate frontend developer from India. My interests are in Front End Development specially in React.js, and I love to create beautiful and performant products with delightful user experiences.</h3>
 
 <img align="right" alt="code" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
